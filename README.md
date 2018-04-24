@@ -1,3 +1,4 @@
 Research Conference management System (Software Engineering) :- 
 
-  In this project we have done the Design and Modeling part of the Research Conference Management System which includes Fact Finding Chart, System Requirements, Use case Diagram, Data Flow Diagram, Class Modelling, Class Diagrams, CRC Modelling, Data Dictionary, Sequence Diagram, Collaboration Diagram, State Diagram, Activity Diagram, Basic Code and Software Testing.
+  In this project we used pgAdmin Software to create the database of an Event which includes the details of Team Size - 4
+Events, Participants, Teams, Schedule, Venues, Coordinator, Mentor, Winner, Sponsor, Expenditure. We have made ER diagram, Relation Diagram, FDs, Queries, Console Application, DLL, Triggers and Stored Procedure of this database.
